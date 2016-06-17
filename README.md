@@ -1,4 +1,5 @@
 # DinucleotideCounts
+*An R script for determining the counts of each dinucleotide in a .fasta DNA sequence.*
 
 ## Readme
 
